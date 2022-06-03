@@ -9,7 +9,7 @@ Clone into your computer:
 ```
 git clone git@github.com:lucalves/alura-angular-projects/01-bytebank.git
 
-cd 01-byte-bank
+cd 01-bytebank
 
 npm install
 
