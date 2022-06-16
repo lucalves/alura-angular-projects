@@ -1,2 +1,3 @@
 # alura-angular-projects
-Hosting Alura course codes over Angular.
+
+Projects developed to practice the Angular framework.
